@@ -61,7 +61,7 @@ class StreamsIndex extends React.Component {
                     <div className="blob-offline"></div> offline
                 </>  :
                 <>
-                    <div className="blob-online"></div> online <div className="col-12"> <a href="https://twitch.tv/toadphd"> watch now</a> with {islive} others </div>
+                    <div className="blob-online"></div> online <div className="col-12"> <a href="https://twitch.tv/toadphd"> watch now</a> with {islive} viewers </div>
                 </> ;
 
         return (
