@@ -58,7 +58,7 @@ class StreamsIndex extends React.Component {
         ))}
         let blob = streams.length == 0 ?
                 <>
-                    <div className="blob-offline"></div> offliene
+                    <div className="blob-offline"></div> offline
                 </>  :
                 <>
                     <div className="blob-online"></div> online <div className="col-12"> <a href="https://twitch.tv/toadphd"> watch now</a> with {islive} viewers </div>
