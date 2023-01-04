@@ -17,7 +17,8 @@ export default function Search() {
         {sound:"https://www.dropbox.com/s/ksdopmyl99eznrf/womanpenis.mp3?raw=1", label: "woman penis"},
         {sound:"https://www.dropbox.com/s/und8j9t14h5l1fk/bahrahrha.mp3?raw=1", label:"bahrharharhah"},
             {sound:"https://www.dropbox.com/s/4wjuwh9s6wacx6u/showmeurfuckingcock.mp3?raw=1", label:"show me your fucking cock"},
-                    {sound:"https://www.dropbox.com/s/irl2726x00ks35a/hababakaka.mp3?raw=1", label:"babakahabakaka"}
+                    {sound:"https://www.dropbox.com/s/irl2726x00ks35a/hababakaka.mp3?raw=1", label:"babakahabakaka"},
+                            {sound:"https://www.dropbox.com/s/rw6pvhwwuzfq3kb/jizzinstly.mp3?raw=1", label:"jizzinstly"}
     ]
 
     // considering the data object to search on name
