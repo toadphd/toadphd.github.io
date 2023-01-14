@@ -13,7 +13,13 @@ export default function Search() {
     const audioClips = [
         {sound: "https://www.dropbox.com/s/r3n07i8o1iykxwy/rawteenpussy.mp3?raw=1", label: "teen pussy"},
         {  sound: "https://www.dropbox.com/s/0vg0zbbd8f78mtj/bruhbruh.mp3?raw=1", label: "bruh bruh bruh"},
-        {  sound: "https://www.dropbox.com/s/2a4brhd9wpxhf77/woogiewoo.mp3?raw=1", label: "woogie woogie"}
+        {  sound: "https://www.dropbox.com/s/2a4brhd9wpxhf77/woogiewoo.mp3?raw=1", label: "woogie woogie"},
+        {sound:"https://www.dropbox.com/s/ksdopmyl99eznrf/womanpenis.mp3?raw=1", label: "woman penis"},
+        {sound:"https://www.dropbox.com/s/und8j9t14h5l1fk/bahrahrha.mp3?raw=1", label:"bahrharharhah"},
+        {sound:"https://www.dropbox.com/s/4wjuwh9s6wacx6u/showmeurfuckingcock.mp3?raw=1", label:"show me your fucking cock"},
+        {sound:"https://www.dropbox.com/s/irl2726x00ks35a/hababakaka.mp3?raw=1", label:"babakahabakaka"},
+        {sound:"https://www.dropbox.com/s/rw6pvhwwuzfq3kb/jizzinstly.mp3?raw=1", label:"jizzinstly"},
+        {sound:"https://www.dropbox.com/s/2boanbu5rnqs347/chines%20esong.mp3?raw=1", label:"chinese song"}
     ]
 
     // considering the data object to search on name
