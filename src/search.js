@@ -23,7 +23,10 @@ export default function Search() {
 
         {sound:"https://www.dropbox.com/s/2boanbu5rnqs347/chines%20esong.mp3?raw=1", label:"chinese song"},
         {sound:"https://www.dropbox.com/s/l2t692saj10b1rd/suckanoldguyscock.mp3?dl=1", label:"suck old guy cock"},
-        {sound:"https://www.dropbox.com/s/c91g6l32r4568o0/ihavesexwith5dudesatatime.mp3?dl=1", label:"5 dicks at a time"}
+        {sound:"https://www.dropbox.com/s/c91g6l32r4568o0/ihavesexwith5dudesatatime.mp3?dl=1", label:"5 dicks at a time"},
+        {sound:"https://www.dropbox.com/s/z63ghia1so0fkkf/titslap.mp3?dl=1", label:"tit slap"},
+        {sound:"https://www.dropbox.com/s/k46zk0t3x63fbpi/cumslut.mp3?dl=1", label:"cum slut"},
+        {sound:"https://www.dropbox.com/s/3whq84qrekmc6gw/dorthorseckc.mp3?dl=1", label:"horse cock"}
     ]
 
     // considering the data object to search on name
